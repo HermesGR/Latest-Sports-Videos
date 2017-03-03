@@ -8,6 +8,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=kmms8scqnoo
 #EXTINF:1,Ατρόμητος - Ολυμπιακός  1-2 Στιγμιότυπα Κύπελλο Ελλάδας | Προημιτελική φάση {2/3/2017}
 plugin://plugin.video.youtube/?action=play_video&videoid=otuyhMjzdlY
 
+#EXTINF:1,Ξάνθη - ΠΑΟΚ 1-2 Στιγμιότυπα Κύπελλο Ελλάδας | Προημιτελική φάση {9/2/2017}
+plugin://plugin.video.youtube/?action=play_video&videoid=AfsnVK1VC14
+
 #EXTINF:1,AEK - ΠΛΑΤΑΝΙΑΣ  3-0 (ΚΥΠΕΛΛΟ ΕΛΛΑΔΟΣ - 01/03/17)
 plugin://plugin.video.youtube/?action=play_video&videoid=0mEtCjgPmTs
 
