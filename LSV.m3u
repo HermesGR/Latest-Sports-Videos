@@ -2,11 +2,17 @@
 
 #EXTM3U
 
+#EXTINF:1,Ατρόμητος - Ολυμπιακός  1-2 Στιγμιότυπα Κύπελλο Ελλάδας | Προημιτελική φάση {2/3/2017}
+plugin://plugin.video.youtube/?action=play_video&videoid=otuyhMjzdlY
+
 #EXTINF:1,AEK - ΠΛΑΤΑΝΙΑΣ  3-0 (ΚΥΠΕΛΛΟ ΕΛΛΑΔΟΣ - 01/03/17)
 plugin://plugin.video.youtube/?action=play_video&videoid=0mEtCjgPmTs
 
 #EXTINF:1,Αστέρας Τρίπολης - Παναθηναϊκός 0-1 Στιγμιότυπα Κύπελλο Ελλάδας | Προημιτελική φάση {1/3/2017}
 plugin://plugin.video.youtube/?action=play_video&videoid=be7wAFsxvwM
 
-#EXTINF:1,Κολοσσός Ρόδου - Παναθηναικός (73 82 highlights)
+#EXTINF:1,BASKET Κολοσσός Ρόδου - Παναθηναικός (73 82 highlights)
 plugin://plugin.video.youtube/?action=play_video&videoid=61EhVhOBypo
+
+#EXTINF:1,BASKET Παναθηναικός 83-82 Ούνιξ Καζάν (24/02/17)
+plugin://plugin.video.youtube/?action=play_video&videoid=6L3AQ42cjyQ
