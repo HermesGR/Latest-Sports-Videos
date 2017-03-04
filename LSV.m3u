@@ -2,6 +2,9 @@
 
 #EXTM3U
 
+#EXTINF:1,BASKET - L.A.Lakers vs Boston Celtics - Full Game Highlights | March 3, 2017 | 2016-17 NBA Season (95-115)
+plugin://plugin.video.youtube/?action=play_video&videoid=NPDLEgKYRV8
+
 #EXTINF:1,BASKET - Cleveland Cavaliers vs Atlanta Hawks - Full Game Highlights | March 3, 2017 | 2016-17 NBA Season (135-130)
 plugin://plugin.video.youtube/?action=play_video&videoid=JgwT9rqZXT8
 
