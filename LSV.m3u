@@ -2,6 +2,9 @@
 
 #EXTM3U
 
+#EXTINF:1,BASKET Τα Highlights Του Παναθηναικού με τη Darussafaka (77-72)
+plugin://plugin.video.youtube/?action=play_video&videoid=sNerckubGR4
+
 #EXTINF:1,BASKET Μακάμπι Τελ Αβίβ - ΟΛΥΜΠΙΑΚΟΣ 71-82 24 Aγων. Euroleague 2016/2017
 plugin://plugin.video.youtube/?action=play_video&videoid=kmms8scqnoo
 
