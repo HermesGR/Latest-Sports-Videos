@@ -2,6 +2,59 @@
 
 #EXTM3U
 
+
+
+#EXTINF:1,23η Αγ.SUPER LEAGUE ΠΑΟΚ - ΟΛΥΜΠΙΑΚΟΣ 2-0 (05/03/17)
+plugin://plugin.video.youtube/?action=play_video&videoid=aywdt06-7yA
+
+#EXTINF:1,23η Αγ.SUPER LEAGUE ΑΤΡΟΜΗΤΟΣ - ΗΡΑΚΛΗΣ 1-0 (05/03/17)
+plugin://plugin.video.youtube/?action=play_video&videoid=dslXsvbMFXc
+
+#EXTINF:1,23η SUPER LEAGUE Αγ. ΑΣΤΕΡΑΣ ΤΡΙΠΟΛΗΣ - ΚΕΡΚΥΡΑ 1-2 (05/03/17)
+plugin://plugin.video.youtube/?action=play_video&videoid=MOuZJ6VE-zI
+
+#EXTINF:1,23η Αγ. SUPER LEAGUE ΞΑΝΘΗ - ΠΛΑΤΑΝΙΑΣ 1-0 (05/03/17)
+plugin://plugin.video.youtube/?action=play_video&videoid=zKRQulX0hh8
+
+#EXTINF:1,Tottenham Hotspur vs Everton 3-2 - All Goals Highlights - Premier League 05/03/2017 
+plugin://plugin.video.youtube/?action=play_video&videoid=FXZ6g-9jfgo
+
+#EXTINF:1,Sunderland vs Manchester City 0-2 2017 - Highlights & Goals - Premier League
+plugin://plugin.video.youtube/?action=play_video&videoid=XQCRPSy6cJo
+
+#EXTINF:1,Atletico Madrid vs Valencia 3-0 2017 - Highlights & Goals - La Liga
+plugin://plugin.video.youtube/?action=play_video&videoid=rfCFrQkSkoQ
+
+#EXTINF:1,BASKET - Παναθηναικός - Άρης 70-54 Basket League 20η αγ. {5/3/2017}
+plugin://plugin.video.youtube/?action=play_video&videoid=AGdPePQUqag
+
+#EXTINF:1,BASKET - Ολυμπιακός - Λαύριο 84-52 Basket League 20η αγ. {5/3/2017}
+plugin://plugin.video.youtube/?action=play_video&videoid=akjD7-1sMGU
+
+#EXTINF:1,NBA - Brooklyn Nets vs Portland Trail Blazers 116-130 - Full Game Highlights March 4
+plugin://plugin.video.youtube/?action=play_video&videoid=wzkswwH-Tt4
+
+#EXTINF:1,NBA - Indiana Pacers vs Atlanta Hawks 97-96 - Full Game Highlights | March 5
+plugin://plugin.video.youtube/?action=play_video&videoid=7BPp8Lp4AOk
+
+#EXTINF:1,NBA - Golden State Warriors vs New York Knicks 112-105 - Full Game Highlights | March 5, 2017
+plugin://plugin.video.youtube/?action=play_video&videoid=UfUlaVn8Ylk
+
+#EXTINF:1,NBA - Boston Celtics vs Phoenix Suns 106-109  - Full Game Highlights | March 5
+plugin://plugin.video.youtube/?action=play_video&videoid=4PDEnywl7V4
+
+#EXTINF:1,NBA - Washington Wizards vs Orlando Magic 115-114 - Full Game Highlights | March 5
+plugin://plugin.video.youtube/?action=play_video&videoid=QtQfgVCmJ84
+
+#EXTINF:1,NBA - Utah Jazz vs Sacramento Kings 110-109 - Full Game Highlights - March 5
+plugin://plugin.video.youtube/?action=play_video&videoid=LaXDgA7tWfs
+
+#EXTINF:1,NBA - Oklahoma City Thunder vs Dallas Mavericks 89-104 - Full Game Highlights - March 5
+plugin://plugin.video.youtube/?action=play_video&videoid=VqTUqiI_pQY
+
+#EXTINF:1,NBA - New Orleans Pelicans vs LA Lakers 105-97 - Full Game Highlights | March 5
+plugin://plugin.video.youtube/?action=play_video&videoid=FOt70q93q-o
+
 #EXTINF:1,BASKET - L.A.Lakers vs Boston Celtics - Full Game Highlights | March 3, 2017 | 2016-17 NBA Season (95-115)
 plugin://plugin.video.youtube/?action=play_video&videoid=NPDLEgKYRV8
 
