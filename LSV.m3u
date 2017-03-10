@@ -2,6 +2,45 @@
 
 #EXTM3U
 
+#EXTINF:1,ΟΛΥΜΠΙΑΚΟΣ - Μπεσίκτας 1-1 Europa League "16" Highlights/Στιγμιότυπα (09/03/2017)
+plugin://plugin.video.youtube/?action=play_video&videoid=fYbLHXABTMc
+
+#EXTINF:1,Schalke 04 VS Borussia M' Gladbach 1-1 Goals Highlights Europa League 09/03/2017 
+plugin://plugin.video.youtube/?action=play_video&videoid=lK5UMlwYyxQ
+
+#EXTINF:1,Lyon vs Roma 4-2 All Goals Highlights Europa League 09/03/2017
+plugin://plugin.video.youtube/?action=play_video&videoid=iihf9LldF3A
+
+#EXTINF:1,KAA GENT VS KRC GENK 2-5|HIGHLIGHTS| Europa League 09/03/17
+plugin://plugin.video.youtube/?action=play_video&videoid=RURZmrhhVuM
+
+#EXTINF:1,CELTA VIGO VS KRASNODAR 2-1 |HIGHLIGHTS| Europa League 09/03/17
+plugin://plugin.video.youtube/?action=play_video&videoid=Qtzi1TD7r-w
+
+#EXTINF:1,Rostov vs Manchester United 1-1 ~ All Goals & Extended Highlights ~ Europa League 09/03/2017 
+plugin://plugin.video.youtube/?action=play_video&videoid=BMHXzXj8Fa4
+
+#EXTINF:1,FC Copenhagen - Ajax 2:1 Europa League - Play Offs
+plugin://plugin.video.youtube/?action=play_video&videoid=pzfJT3UM6bM
+
+#EXTINF:1,ΑΠΟΕΛ - Άντερλεχτ 0:1  Europa League - Play Offs
+plugin://plugin.video.youtube/?action=play_video&videoid=OlrKHFgFGoQ
+
+#EXTINF:1,BASKET - Highlights: FC Barcelona Lassa-Unics Kazan 70-62 Euroleague
+plugin://plugin.video.youtube/?action=play_video&videoid=hrktQV6C6Yk
+
+#EXTINF:1,BASKET - Highlights: Maccabi FOX Tel Aviv-EA7 Emporio Armani Milan 92-82 Euroleague
+plugin://plugin.video.youtube/?action=play_video&videoid=eaC9bBeV_c0
+
+#EXTINF:1,BASKET - Highlights: Zalgiris Kaunas-Panathinaikos 64-58 Euroleague
+plugin://plugin.video.youtube/?action=play_video&videoid=rZD1HoNAunk
+
+#EXTINF:1,BASKET - Highlights: Fenerbahce Istanbul-Baskonia 74-79 Euroleague
+plugin://plugin.video.youtube/?action=play_video&videoid=lhfdF_gAcwA
+
+#EXTINF:1,BASKET - Highlights: CSKA Moscow-Galatasaray 85-69 Euroleague
+plugin://plugin.video.youtube/?action=play_video&videoid=P0-pC__ARgs
+
 #EXTINF:1,Barcelona vs PSG 6:1 Paris Saint-Germain | 08 Mar 2017 | All Goals & Highlights (Champions League)
 plugin://plugin.video.youtube/?action=play_video&videoid=3WuTNBcpOUw
 
