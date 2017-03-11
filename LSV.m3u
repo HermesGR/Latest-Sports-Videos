@@ -2,6 +2,42 @@
 
 #EXTM3U
 
+#EXTINF:1,Bayer Leverkusen vs Werder Bremen 1-1 10/03/2017
+plugin://plugin.video.youtube/?action=play_video&videoid=kLSm8IrDDlA
+
+#EXTINF:1,Bayer Leverkusen vs Werder Bremen 1-0 10/03/2017
+plugin://plugin.video.youtube/?action=play_video&videoid=W6EudemTlmg
+
+#EXTINF:1,Juventus-Milan 2-1 - HIGHLIGHTS & GOALS - 10/03/2017
+plugin://plugin.video.youtube/?action=play_video&videoid=zyk-iOcvtgE
+
+#EXTINF:1,RCD Espanyol vs UD Las Palmas 4-3 All Goals and Highlights {10/3/2017}
+plugin://plugin.video.youtube/?action=play_video&videoid=efK0_bp2m-k
+
+#EXTINF:1,BASKET - Highlights: Anadolu Efes Istanbul-Brose Bamberg 68-87
+plugin://plugin.video.youtube/?action=play_video&videoid=1Aq6vuDsqp0
+
+#EXTINF:1,BASKET - Highlights: Olympiacos Piraeus-Darussafaka Dogus Istanbul 81-73
+plugin://plugin.video.youtube/?action=play_video&videoid=3mq7CZ9K6XY
+
+#EXTINF:1,BASKET - Highlights: Real Madrid-Crvena Zvezda mts Belgrade 98-68
+plugin://plugin.video.youtube/?action=play_video&videoid=4ONbAo-LKUQ
+
+#EXTINF:1,NBA - Cleveland Cavaliers vs Detroit Pistons Full Game Highlights March 9, 2017
+plugin://plugin.video.youtube/?action=play_video&videoid=aKSixOKlZ3o
+
+#EXTINF:1,NBA - LA Clippers vs Memphis Grizzlies 114-98 - Full Game Highlights | March 9, 2017
+plugin://plugin.video.youtube/?action=play_video&videoid=PKz2klINsK4
+
+#EXTINF:1,NBA - San Antonio Spurs vs Oklahoma City Thunder 92-102 - Full Highlights | March 9, 2017
+plugin://plugin.video.youtube/?action=play_video&videoid=IefaA19H_kI
+
+#EXTINF:1,NBA - Philadelphia Sixers vs Portland Trail Blazers 108-114 - Full Game Highlights | Mar 9, 2017
+plugin://plugin.video.youtube/?action=play_video&videoid=c-g8kPp7_ug
+
+#EXTINF:1,NBA - LA Lakers vs Phoenix Suns 122-110 - Full Game Highlights | March 9, 2017
+plugin://plugin.video.youtube/?action=play_video&videoid=0t8SFPiCCPI
+
 #EXTINF:1,ΟΛΥΜΠΙΑΚΟΣ - Μπεσίκτας 1-1 Europa League "16" Highlights/Στιγμιότυπα (09/03/2017)
 plugin://plugin.video.youtube/?action=play_video&videoid=tZdYa5u_36g
 
