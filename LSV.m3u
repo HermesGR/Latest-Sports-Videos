@@ -2,6 +2,24 @@
 
 #EXTM3U
 
+#EXTINF:1,JUVENTUS vs PORTO 1-0 - All Goals & Highlights - Champions League - 14 Mar 2017
+plugin://plugin.video.youtube/?action=play_video&videoid=TWobwHZD9T0
+
+#EXTINF:1,Leicester City vs Sevilla 2-0 All Goals & Highlights - Champions League - 14 Mar 2017
+plugin://plugin.video.youtube/?action=play_video&videoid=w8N1pKNrBTo
+
+#EXTINF:1,NBA - Detroit Pistons vs Cleveland Cavaliers 96-128 - Full Game Highlights | March 14, 2017
+plugin://plugin.video.youtube/?action=play_video&videoid=DVoyJbpL5Yw
+
+#EXTINF:1,NBA - Indiana Pacers vs New York Knicks 81-87 - Full Game Highlights March 14 2017
+plugin://plugin.video.youtube/?action=play_video&videoid=vwmR5LLMXoM
+
+#EXTINF:1,NBA -  Portland Trail Blazers vs New Orleans Pelicans 77-100 - Full Highlights | March 14
+plugin://plugin.video.youtube/?action=play_video&videoid=mizhzkBWm9w
+
+#EXTINF:1,NBA - Philadelphia Sixers vs Golden State Warriors 104-106 - Full Game Highlights - March 14
+plugin://plugin.video.youtube/?action=play_video&videoid=49CFBRSU_CU
+
 #EXTINF:1,Chelsea vs Manchester United 1-0 - Goals & Highlights - 13/03/2017 
 plugin://plugin.video.youtube/?action=play_video&videoid=9TatL5koUpY
 
