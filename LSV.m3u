@@ -2,6 +2,12 @@
 
 #EXTM3U
 
+#EXTINF:1,Atletico Madrid vs Bayer Leverkusen 0-0 UCL Highlights 15/03/2017
+plugin://plugin.video.youtube/?action=play_video&videoid=lhbaKXBnetg
+
+#EXTINF:1,Monaco 3 - 1 Manchester City All Goals & Highlights 15/03/2017
+plugin://plugin.video.youtube/?action=play_video&videoid=ws32w062j0M
+
 #EXTINF:1,JUVENTUS vs PORTO 1-0 - All Goals & Highlights - Champions League - 14 Mar 2017
 plugin://plugin.video.youtube/?action=play_video&videoid=TWobwHZD9T0
 
