@@ -1,12 +1,31 @@
 #EXTM3U
 
+#EXTINF:1,Borussia Dortmund vs Ingolstadt 1-0 All Goals & Highlights German League 17/03/2017
+plugin://plugin.video.youtube/?action=play_video&videoid=9amEzWyo8D8
+
+#EXTINF:1,Las Palmas vs Villarreal CF (1-0) All Goals & Highlights 17/03/2017
+plugin://plugin.video.youtube/?action=play_video&videoid=dqj01WJQvA0
+
+#EXTINF:1,RODA JC VS FC TWENTE 0-3| Eredivisie 17/03/17
+plugin://plugin.video.youtube/?action=play_video&videoid=iT25o_H4Y0U
+
+#EXTINF:1,BASKET - Highlights: Unics Kazan - Zalgiris Kaunas 80-82
+plugin://plugin.video.youtube/?action=play_video&videoid=-4kfyCXXyk8
+
+#EXTINF:1,BASKET - Highlights: Darussafaka Dogus Istanbul - FC Barcelona Lassa 67-56
+plugin://plugin.video.youtube/?action=play_video&videoid=bYO09xXpn3w
+
+#EXTINF:1,BASKET - Highlights: Olympiacos Piraeus - Galatasaray Odeabank Istanbul 71-80
+plugin://plugin.video.youtube/?action=play_video&videoid=pCi_mhLn80U
+
+#EXTINF:1,BASKET - Highlights: Baskonia Vitoria Gasteiz - CSKA Moscow 79-78
+plugin://plugin.video.youtube/?action=play_video&videoid=u8OaSzgnji4
+
 #EXTINF:1,Besiktas vs Olympiakos 4-1 All Goals Highlights Europa League 16/03/2017 
 plugin://plugin.video.youtube/?action=play_video&videoid=wcAEoc8bnK4
 
 #EXTINF:1,Manchester United vs FC Rostov 1:0 All goals and Highlights 16/03/2017 Europa League
 plugin://plugin.video.youtube/?action=play_video&videoid=7FFIx8Ff_o0
-
-#EXTM3U
 
 #EXTINF:1,Roma vs Lyon 2-1 - All Goals & Highlights - Europa league - 16 Mar 2017
 plugin://plugin.video.youtube/?action=play_video&videoid=aYm62SxsBoc
