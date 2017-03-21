@@ -1,5 +1,59 @@
 #EXTM3U
 
+#EXTINF:1,25η Αγ.SUPER LEAGUE - ΠΛΑΤΑΝΙΑΣ - ΗΡΑΚΛΗΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=k9zhAemN9-A
+
+#EXTINF:1,25η Αγ.SUPER LEAGUE - ΠΑΝΑΘΗΝΑΙΚΟΣ - ΟΛΥΜΠΙΑΚΟΣ 1-0 GOAL
+plugin://plugin.video.youtube/?action=play_video&videoid=3CUznXy7xe0
+
+#EXTINF:1,25η Αγ.SUPER LEAGUE - ΠΑΝΑΘΗΝΑΙΚΟΣ - ΟΛΥΜΠΙΑΚΟΣ 1-0 HIGHLIGHTS
+plugin://plugin.video.youtube/?action=play_video&videoid=22EUcRdCxjo
+
+#EXTINF:1,25η Αγ.SUPER LEAGUE - ΞΑΝΘΗ - ΛΕΒΑΔΕΙΑΚΟΣ 2-2
+plugin://plugin.video.youtube/?action=play_video&videoid=7TtsPalEd5M
+
+#EXTINF:1,25η Αγ.SUPER LEAGUE - ΑΕΛ - ΠΑΣ ΓΙΑΝΝΙΝΑ 1-1
+plugin://plugin.video.youtube/?action=play_video&videoid=WNl9pj0-QO4
+
+#EXTINF:1,25η Αγ.SUPER LEAGUE - ΠΑΟΚ - ΠΑΝΙΩΝΙΟΣ 1-0
+plugin://plugin.video.youtube/?action=play_video&videoid=aCTK5QkcUoc
+
+#EXTINF:1,
+plugin://plugin.video.youtube/?action=play_video&videoid=
+
+#EXTINF:1,
+plugin://plugin.video.youtube/?action=play_video&videoid=
+
+#EXTINF:1,
+plugin://plugin.video.youtube/?action=play_video&videoid=
+
+#EXTINF:1,
+plugin://plugin.video.youtube/?action=play_video&videoid=
+
+#EXTINF:1,
+plugin://plugin.video.youtube/?action=play_video&videoid=
+
+#EXTINF:1,
+plugin://plugin.video.youtube/?action=play_video&videoid=
+
+#EXTINF:1,
+plugin://plugin.video.youtube/?action=play_video&videoid=
+
+#EXTINF:1,
+plugin://plugin.video.youtube/?action=play_video&videoid=
+
+#EXTINF:1,
+plugin://plugin.video.youtube/?action=play_video&videoid=
+
+#EXTINF:1,25η Αγ.SUPER LEAGUE - ΑΤΡΟΜΗΤΟΣ - ΑΕΚ 0-1
+plugin://plugin.video.youtube/?action=play_video&videoid=SnPbJZlU_30
+
+#EXTINF:1,25η Αγ.SUPER LEAGUE - ΑΕΛ - ΠΑΝΑΙΤΩΛΙΚΟΣ 1-0
+plugin://plugin.video.youtube/?action=play_video&videoid=ynPtfy1T7IY
+
+#EXTINF:1,25η Αγ.SUPER LEAGUE - ΒΕΡΟΙΑ - ΑΟΚ 4-0
+plugin://plugin.video.youtube/?action=play_video&videoid=OPYqA7ouZF0
+
 #EXTINF:1,Borussia Dortmund vs Ingolstadt 1-0 All Goals & Highlights German League 17/03/2017
 plugin://plugin.video.youtube/?action=play_video&videoid=9amEzWyo8D8
 
